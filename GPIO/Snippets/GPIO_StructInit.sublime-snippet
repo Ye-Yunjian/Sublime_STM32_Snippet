@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+GPIO_InitTypeDef GPIO_InitStructure; 
+GPIO_StructInit(&GPIO_InitStructure);
+
+]]></content>
+	<tabTrigger>gpio_structinit</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+GPIO_EventOutputConfig(GPIO_PortSourceGPIO${1:A}, GPIO_PinSource${2:0}); 
+${3:// use GPIO_EventOutputCmd to make event output enable}
+
+]]></content>
+	<tabTrigger>gpio_eventoutputconfig</tabTrigger>
+</snippet>

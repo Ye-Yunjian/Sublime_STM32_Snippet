@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+GPIO_ReadInputDataBit(GPIO${1:B}, GPIO_Pin_${2:7});
+
+]]></content>
+	<tabTrigger>gpio_readinputdatabit</tabTrigger>
+</snippet>

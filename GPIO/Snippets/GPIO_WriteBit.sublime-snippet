@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+GPIO_WriteBit(GPIO${1:A}, GPIO_Pin_${2:0}, Bit_${3:RE}SET); 
+
+]]></content>
+	<tabTrigger>gpio_writebit</tabTrigger>
+</snippet>

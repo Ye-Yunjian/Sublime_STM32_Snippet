@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+GPIO_Write(GPIO${1:A}, 0x${2:1101});  // TODO
+
+]]></content>
+	<tabTrigger>gpio_write</tabTrigger>
+</snippet>

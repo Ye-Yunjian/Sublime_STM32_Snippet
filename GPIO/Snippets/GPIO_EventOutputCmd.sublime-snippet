@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+GPIO_EventOutputCmd(${1:ENABLE});	// or DISABLE
+
+]]></content>
+	<tabTrigger>gpio_eventoutputcmd</tabTrigger>
+</snippet>

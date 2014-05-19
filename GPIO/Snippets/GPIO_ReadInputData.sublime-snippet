@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+GPIO_ReadInputData(GPIO${1:A});
+
+]]></content>
+	<tabTrigger>gpio_readinputdata</tabTrigger>
+</snippet>

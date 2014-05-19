@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+GPIO_AFIODeInit();
+
+]]></content>
+	<tabTrigger>gpio_afiodeinit</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+GPIO_PinLockConfig(GPIO${1:A}, GPIO_Pin_${2:0});  ${3:// use bit or (|) to choose multiple pins}
+
+]]></content>
+	<tabTrigger>gpio_pinlockconfig</tabTrigger>
+</snippet>

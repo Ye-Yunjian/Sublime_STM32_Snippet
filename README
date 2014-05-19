@@ -1,1 +1,0 @@
-Adding some snippet of STM32 fun lib to Sublime Text.
