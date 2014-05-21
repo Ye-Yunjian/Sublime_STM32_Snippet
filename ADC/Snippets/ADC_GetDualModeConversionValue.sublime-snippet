@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:// RETURN THE LAST ADC1 AND ADC2 CONVERSION RESULT DATA IN DUAL MODE}
+ADC_GetDualModeConversionValue();
+
+]]></content>
+	<tabTrigger>adc_getdualmodeconversionvalue</tabTrigger>
+</snippet>

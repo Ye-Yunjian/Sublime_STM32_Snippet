@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+// CAUTION: ADC_Cmd CAN ONLY BE CALLED 
+// WHEN OTHER ADC SETTING FUN BEING SET
+ADC_Cmd(ADC${1:1}, ENABLE);
+
+]]></content>
+	<tabTrigger>adc_cmd</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_ITConfig(ADC${1:1}, ${2:ADC_IT_EOC}, ${3:ENABLE});  ${4:// USE | TO CHOOSE MULTI IT TYPES }
+
+]]></content>
+	<tabTrigger>adc_itconfig</tabTrigger>
+</snippet>

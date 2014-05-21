@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_Init(ADC${1:1}, &ADC_InitStructure); 
+
+]]></content>
+	<tabTrigger>adc_init</tabTrigger>
+</snippet>

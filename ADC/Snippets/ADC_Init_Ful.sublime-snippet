@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+ADC_InitTypeDef ADC_InitStructure; 
+ADC_StructInit(&ADC_InitStructure); 
+ADC_InitStructure.ADC_Mode               = ${1:ADC_Mode_Independent}; 
+ADC_InitStructure.ADC_ScanConvMode       = ${2:ENABLE}; 
+ADC_InitStructure.ADC_ContinuousConvMode = ${3:DISABLE}; 
+ADC_InitStructure.ADC_ExternalTrigConv   = ${4:ADC_ExternalTrigConv_Ext_IT11}; 
+ADC_InitStructure.ADC_DataAlign          = ${5:ADC_DataAlign_Right}; 
+ADC_InitStructure.ADC_NbrOfChannel       = ${6:16}; 
+ADC_Init(ADC${7:1}, &ADC_InitStructure); 
+
+]]></content>
+	<tabTrigger>adc_init_ful</tabTrigger>
+</snippet>

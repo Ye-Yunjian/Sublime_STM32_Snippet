@@ -1,0 +1,111 @@
+{
+    "completions":
+    [
+        { "trigger": "adc_mode_independent"            , "contents": "ADC_Mode_Independent"},
+        { "trigger": "adc_mode_reginjecsimult"         , "contents": "ADC_Mode_RegInjecSimult"},
+        { "trigger": "adc_mode_regsimult_altertrig"    , "contents": "ADC_Mode_RegSimult_AlterTrig"},
+        { "trigger": "adc_mode_injecsimult_fastinterl" , "contents": "ADC_Mode_InjecSimult_FastInterl"},
+        { "trigger": "adc_mode_injecsimult_slowinterl" , "contents": "ADC_Mode_InjecSimult_SlowInterl"},
+        { "trigger": "adc_mode_injecsimult"            , "contents": "ADC_Mode_InjecSimult"},
+        { "trigger": "adc_mode_regsimult"              , "contents": "ADC_Mode_RegSimult"},
+        { "trigger": "adc_mode_fastinterl"             , "contents": "ADC_Mode_FastInterl"},
+        { "trigger": "adc_mode_slowinterl"             , "contents": "ADC_Mode_SlowInterl"},
+        { "trigger": "adc_mode_altertrig"              , "contents": "ADC_Mode_AlterTrig"},
+
+        { "trigger": "adc_externaltrigconv_t1_cc1"             , "contents": "ADC_ExternalTrigConv_T1_CC1"},
+        { "trigger": "adc_externaltrigconv_t1_cc2"             , "contents": "ADC_ExternalTrigConv_T1_CC2"},
+        { "trigger": "adc_externaltrigconv_t2_cc2"             , "contents": "ADC_ExternalTrigConv_T2_CC2"},
+        { "trigger": "adc_externaltrigconv_t3_trgo"            , "contents": "ADC_ExternalTrigConv_T3_TRGO"},
+        { "trigger": "adc_externaltrigconv_t4_cc4"             , "contents": "ADC_ExternalTrigConv_T4_CC4"},
+        { "trigger": "adc_externaltrigconv_ext_it11_tim8_trgo" , "contents":"ADC_ExternalTrigConv_Ext_IT11_TIM8_TRGO"},
+        { "trigger": "adc_externaltrigconv_t1_cc3"             , "contents": "ADC_ExternalTrigConv_T1_CC3"},
+        { "trigger": "adc_externaltrigconv_none"               , "contents": "ADC_ExternalTrigConv_None"},
+        { "trigger": "adc_externaltrigconv_t3_cc1"             , "contents": "ADC_ExternalTrigConv_T3_CC1"},
+        { "trigger": "adc_externaltrigconv_t2_cc3"             , "contents": "ADC_ExternalTrigConv_T2_CC3"},
+        { "trigger": "adc_externaltrigconv_t8_cc1"             , "contents": "ADC_ExternalTrigConv_T8_CC1"},
+        { "trigger": "adc_externaltrigconv_t8_trgo"            , "contents": "ADC_ExternalTrigConv_T8_TRGO"},
+        { "trigger": "adc_externaltrigconv_t5_cc1"             , "contents": "ADC_ExternalTrigConv_T5_CC1"},
+        { "trigger": "adc_externaltrigconv_t5_cc3"             , "contents": "ADC_ExternalTrigConv_T5_CC3"},
+
+        { "trigger": "adc_dataalign_right" , "contents": "ADC_DataAlign_Right"},
+        { "trigger": "adc_dataalign_left"  , "contents": "ADC_DataAlign_Left"},
+
+        { "trigger": "adc_mode"               , "contents":"ADC_Mode"},
+        { "trigger": "adc_scanconvmode;"      , "contents":"ADC_ScanConvMode;"},
+        { "trigger": "adc_continuousconvmode" , "contents":"ADC_ContinuousConvMode"},
+        { "trigger": "adc_externaltrigconv"   , "contents":"ADC_ExternalTrigConv"},
+        { "trigger": "adc_dataalign"          , "contents":"ADC_DataAlign"},
+        { "trigger": "adc_nbrofchannel"       , "contents":"ADC_NbrOfChannel"},
+
+        {"trigger":"adc_it_eoc"  ,"contents":"ADC_IT_EOC"},
+        {"trigger":"adc_it_awd"  ,"contents":"ADC_IT_AWD"},
+        {"trigger":"adc_it_jeoc" ,"contents":"ADC_IT_JEOC"},
+
+        {"trigger":"adc_channel_0"  ,"contents":"ADC_Channel_0"},
+        {"trigger":"adc_channel_1"  ,"contents":"ADC_Channel_1"},
+        {"trigger":"adc_channel_2"  ,"contents":"ADC_Channel_2"},
+        {"trigger":"adc_channel_3"  ,"contents":"ADC_Channel_3"},
+        {"trigger":"adc_channel_4"  ,"contents":"ADC_Channel_4"},
+        {"trigger":"adc_channel_5"  ,"contents":"ADC_Channel_5"},
+        {"trigger":"adc_channel_6"  ,"contents":"ADC_Channel_6"},
+        {"trigger":"adc_channel_7"  ,"contents":"ADC_Channel_7"},
+        {"trigger":"adc_channel_8"  ,"contents":"ADC_Channel_8"},
+        {"trigger":"adc_channel_9"  ,"contents":"ADC_Channel_9"},
+        {"trigger":"adc_channel_10" ,"contents":"ADC_Channel_10"},
+        {"trigger":"adc_channel_11" ,"contents":"ADC_Channel_11"},
+        {"trigger":"adc_channel_12" ,"contents":"ADC_Channel_12"},
+        {"trigger":"adc_channel_13" ,"contents":"ADC_Channel_13"},
+        {"trigger":"adc_channel_14" ,"contents":"ADC_Channel_14"},
+        {"trigger":"adc_channel_15" ,"contents":"ADC_Channel_15"},
+        {"trigger":"adc_channel_16" ,"contents":"ADC_Channel_16"},
+        {"trigger":"adc_channel_17" ,"contents":"ADC_Channel_17"},
+
+        {"trigger":"adc_sampletime_1cycles5"   ,"contents":"ADC_SampleTime_1Cycles5"},
+        {"trigger":"adc_sampletime_7cycles5"   ,"contents":"ADC_SampleTime_7Cycles5"},
+        {"trigger":"adc_sampletime_13cycles5"  ,"contents":"ADC_SampleTime_13Cycles5"},
+        {"trigger":"adc_sampletime_28cycles5"  ,"contents":"ADC_SampleTime_28Cycles5"},
+        {"trigger":"adc_sampletime_41cycles5"  ,"contents":"ADC_SampleTime_41Cycles5"},
+        {"trigger":"adc_sampletime_55cycles5"  ,"contents":"ADC_SampleTime_55Cycles5"},
+        {"trigger":"adc_sampletime_71cycles5"  ,"contents":"ADC_SampleTime_71Cycles5"},
+        {"trigger":"adc_sampletime_239cycles5" ,"contents":"ADC_SampleTime_239Cycles5"},
+
+        {"trigger":"adc_externaltriginjecconv_t2_trgo"           ,"contents":"ADC_ExternalTrigInjecConv_T2_TRGO"},
+        {"trigger":"adc_externaltriginjecconv_t2_cc1"            ,"contents":"ADC_ExternalTrigInjecConv_T2_CC1"},
+        {"trigger":"adc_externaltriginjecconv_t3_cc4"            ,"contents":"ADC_ExternalTrigInjecConv_T3_CC4"},
+        {"trigger":"adc_externaltriginjecconv_t4_trgo"           ,"contents":"ADC_ExternalTrigInjecConv_T4_TRGO"},
+        {"trigger":"adc_externaltriginjecconv_ext_it15_tim8_cc4" ,"contents":"ADC_ExternalTrigInjecConv_Ext_IT15_TIM8_CC4"},
+
+        {"trigger":"adc_externaltriginjecconv_t1_trgo" ,"contents":"ADC_ExternalTrigInjecConv_T1_TRGO"},
+        {"trigger":"adc_externaltriginjecconv_t1_cc4"  ,"contents":"ADC_ExternalTrigInjecConv_T1_CC4"},
+        {"trigger":"adc_externaltriginjecconv_none"    ,"contents":"ADC_ExternalTrigInjecConv_None"},
+
+        { "trigger": "adc_externaltriginjecconv_t4_cc3"  ,"contents":"ADC_ExternalTrigInjecConv_T4_CC3"},
+        { "trigger": "adc_externaltriginjecconv_t8_cc2"  ,"contents":"ADC_ExternalTrigInjecConv_T8_CC2"},
+        { "trigger": "adc_externaltriginjecconv_t8_cc4"  ,"contents":"ADC_ExternalTrigInjecConv_T8_CC4"},
+        { "trigger": "adc_externaltriginjecconv_t5_trgo" ,"contents":"ADC_ExternalTrigInjecConv_T5_TRGO"},
+        { "trigger": "adc_externaltriginjecconv_t5_cc4"  ,"contents":"ADC_ExternalTrigInjecConv_T5_CC4"},
+
+        { "trigger": "adc_injectedchannel_1" , "contents":"ADC_InjectedChannel_1"},
+        { "trigger": "adc_injectedchannel_2" , "contents":"ADC_InjectedChannel_2"},
+        { "trigger": "adc_injectedchannel_3" , "contents":"ADC_InjectedChannel_3"},
+        { "trigger": "adc_injectedchannel_4" , "contents":"ADC_InjectedChannel_4"},
+
+        { "trigger":"adc_analogwatchdog_singleregenable"        ,"contents":"ADC_AnalogWatchdog_SingleRegEnable"},
+        { "trigger":"adc_analogwatchdog_singleinjecenable"      ,"contents":"ADC_AnalogWatchdog_SingleInjecEnable"},
+        { "trigger":"adc_analogwatchdog_singleregorinjecenable" ,"contents":"ADC_AnalogWatchdog_SingleRegOrInjecEnable"},
+        { "trigger":"adc_analogwatchdog_allregenable"           ,"contents":"ADC_AnalogWatchdog_AllRegEnable"},
+        { "trigger":"adc_analogwatchdog_allinjecenable"         ,"contents":"ADC_AnalogWatchdog_AllInjecEnable"},
+        { "trigger":"adc_analogwatchdog_allregallinjecenable"   ,"contents":"ADC_AnalogWatchdog_AllRegAllInjecEnable"},
+        { "trigger":"adc_analogwatchdog_none"                   ,"contents":"ADC_AnalogWatchdog_None"},
+   
+        { "trigger": "adc_flag_awd"   ,"contents":"ADC_FLAG_AWD"},
+        { "trigger": "adc_flag_eoc"   ,"contents":"ADC_FLAG_EOC"},
+        { "trigger": "adc_flag_jeoc"  ,"contents":"ADC_FLAG_JEOC"},
+        { "trigger": "adc_flag_jstrt" ,"contents":"ADC_FLAG_JSTRT"},
+        { "trigger": "adc_flag_strt"  ,"contents":"ADC_FLAG_STRT"}
+    ] 
+}
+ 
+ 
+
+           

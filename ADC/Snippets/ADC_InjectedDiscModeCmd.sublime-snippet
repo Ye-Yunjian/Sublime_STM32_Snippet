@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_InjectedDiscModeCmd(ADC${1:1}, ${2:ENABLE}); 
+
+]]></content>
+	<tabTrigger>adc_injecteddiscmodecmd</tabTrigger>
+</snippet>

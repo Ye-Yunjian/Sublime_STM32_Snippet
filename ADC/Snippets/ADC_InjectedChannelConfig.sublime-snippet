@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+${5:/*ADC_InjectedChannelConfig(ADC_TypeDef* ADCx, 
+							uint8_t ADC_Channel,
+							uint8_t Rank,
+							uint8_t ADC_SampleTime)
+*/}
+ADC_InjectedChannelConfig(ADC${1:1}, ${2:ADC_Channel_12}, ${3:2}, ${4:ADC_SampleTime_28Cycles5}); 
+
+]]></content>
+	<tabTrigger>adc_injectedchannelconfig</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_GetInjectedConversionValue(ADC${1:1}, ${2:ADC_InjectedChannel_1}); 
+
+]]></content>
+	<tabTrigger>adc_getinjectedconversionvalue</tabTrigger>
+</snippet>

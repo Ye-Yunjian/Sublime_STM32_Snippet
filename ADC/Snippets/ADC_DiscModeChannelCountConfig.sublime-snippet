@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_DiscModeChannelCountConfig(ADC${1:1}, ${2:1});   // 2nd SHOULE BE AN INTEGER FROM 1 - 8
+
+]]></content>
+	<tabTrigger>adc_discmodechannelcountconfig</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_SoftwareStartConvCmd(ADC${1:1}, ${2:ENABLE}); 
+
+]]></content>
+	<tabTrigger>adc_softwarestartconvcmd</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_SetInjectedOffset(ADC${1:1}, ${2:ADC_InjectedChannel_3}, ${3:0x100});   // THE 3rd VALUE SHOULE BE A 12BITS VALUE
+
+]]></content>
+	<tabTrigger>adc_setinjectedoffset</tabTrigger>
+</snippet>

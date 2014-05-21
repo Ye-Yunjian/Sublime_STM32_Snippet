@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_ExternalTrigInjectedConvCmd(ADC${1:1}, ${2:ENABLE}); 
+
+]]></content>
+	<tabTrigger>adc_externaltriginjectedconvcmd</tabTrigger>
+</snippet>

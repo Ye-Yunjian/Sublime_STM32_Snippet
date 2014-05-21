@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_DMACmd(ADC${1:2}, ENABLE); 
+
+]]></content>
+	<tabTrigger>adc_dmacmd</tabTrigger>
+</snippet>

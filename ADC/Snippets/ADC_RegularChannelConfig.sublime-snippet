@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+
+${5:/*void ADC_RegularChannelConfig(ADC_TypeDef* ADCx, 
+								u8 ADC_Channel,
+								u8 Rank, 
+								u8 ADC_SampleTime)
+*/}
+ADC_RegularChannelConfig(ADC${1:1}, ADC_Channel_${2:1}, ${3:1}, ${4:ADC_SampleTime_7Cycles5});
+
+]]></content>
+	<tabTrigger>adc_regularchannelconfig</tabTrigger>
+</snippet>

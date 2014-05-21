@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_AnalogWatchdogCmd(ADC${1:1,}, ${2:ADC_AnalogWatchdog_AllRegAllInjecEnable}); 
+
+]]></content>
+	<tabTrigger>adc_analogwatchdogcmd</tabTrigger>
+</snippet>

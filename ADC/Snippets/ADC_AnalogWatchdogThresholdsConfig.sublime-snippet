@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_AnalogWatchdogThresholdsConfig(ADC${1:1}, 0x${2:400}, 0x${3:100});   // THE 2nd AND 3rd VALUE SHOULE BE A 12BITS VALUE
+
+]]></content>
+	<tabTrigger>adc_analogwatchdogthresholdsconfig</tabTrigger>
+</snippet>

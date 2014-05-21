@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_GetConversionValue(ADC${1:1});
+
+]]></content>
+	<tabTrigger>adc_getconversionvalue</tabTrigger>
+</snippet>

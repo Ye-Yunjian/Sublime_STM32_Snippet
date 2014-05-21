@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_AnalogWatchdogSingleChannelConfig(ADC${1:1}, ${2:ADC_Channel_1}); 
+
+]]></content>
+	<tabTrigger>adc_analogwatchdogsinglechannelconfig</tabTrigger>
+</snippet>

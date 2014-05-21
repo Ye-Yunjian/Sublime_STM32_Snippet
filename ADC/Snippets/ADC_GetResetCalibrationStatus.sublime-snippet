@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ADC_GetResetCalibrationStatus(ADC${1:1}); 
+
+]]></content>
+	<tabTrigger>adc_getresetcalibrationstatus</tabTrigger>
+</snippet>
